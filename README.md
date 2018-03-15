@@ -5,9 +5,9 @@ This is a  sample app that Sentiment Analysis using Text Analytics API Microsoft
 This repository can directly be deployed to Azure App Service.
 
 # Contributors
-## Ankit Kumar Singh
-## Aditya Jain
-## Mohd. Shahid Afridi
+  ### Ankit Kumar Singh
+  ### Aditya Jain
+  ### Mohd. Shahid Afridi
 
 # Contributing
 
